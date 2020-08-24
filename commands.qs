@@ -39,13 +39,8 @@ LAST	Len	"John Dean"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q25052149	P768	Q3239015	P102	Q6972995	P1111	871	P1352	6	S4656	"https://en.wikipedia.org/wiki/Central_Devon_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Lisa Webb"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q3239015	P102	Q9630	P1111	14374	P1352	2	S4656	"https://en.wikipedia.org/wiki/Central_Devon_(UK_Parliament_constituency)"
-LAST	P3602	Q25052149	P768	Q3239015	P102	Q9630	P1111	15598	P1352	2	S4656	"https://en.wikipedia.org/wiki/Central_Devon_(UK_Parliament_constituency)"
+Q76363178	P3602	Q30173038	P768	Q3239015	P102	Q9630	P1111	14374	P1352	2	S4656	"https://en.wikipedia.org/wiki/Central_Devon_(UK_Parliament_constituency)"
+Q76363178	P3602	Q25052149	P768	Q3239015	P102	Q9630	P1111	15598	P1352	2	S4656	"https://en.wikipedia.org/wiki/Central_Devon_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Lloyd Knight"
